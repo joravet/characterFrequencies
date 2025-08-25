@@ -1,0 +1,3 @@
+﻿  CharacterFrequencies.cpp
+C:\Users\jokes\source\repos\CharacterFrequencies\CharacterFrequencies\CharacterFrequencies.cpp(105): warning C4715: 'CharacterFrequencies::getCharacterIndex': not all control paths return a value
+  CharacterFrequencies.vcxproj -> C:\Users\jokes\source\repos\CharacterFrequencies\x64\Debug\CharacterFrequencies.exe
